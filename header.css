@@ -1,0 +1,24 @@
+header {
+  background-color: #e24647;
+  color: #ffffff;
+  overflow: hidden;
+  margin: 0 115px;
+  padding: 55px 60px 95px;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: Arial, "Roboto", sans-serif;
+  float: left;
+}
+
+nav {
+  font-size: 21px;
+  float: right;
+  font-family: "SegoeUI", "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
