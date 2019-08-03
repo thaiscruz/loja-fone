@@ -1,3 +1,6 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
 header {
   background-color: #e24647;
   color: #ffffff;
@@ -8,17 +11,27 @@ header {
 
 h1 {
   font-size: 40px;
-  font-family: Arial, "Roboto", sans-serif;
   float: left;
 }
 
 nav {
   font-size: 21px;
   float: right;
-  font-family: "SegoeUI", "Roboto", sans-serif;
 }
 
 a {
   text-decoration: none;
   color: inherit;
+  margin-left: 55px;
+}
+
+button {
+  width: 199px;
+  height: 60px;
+  border: solid 2px #252c41;
+  background-color: #252c41;
+  color: #ffffff;
+  font-size: 20px;
+  margin: 0 115px;
+  float: right;
 }
