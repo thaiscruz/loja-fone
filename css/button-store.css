@@ -1,0 +1,12 @@
+.button-store {
+    display: inline-block;
+    width: 200px;
+    height: 60px;
+    line-height: 60px; /* alinhar verticalmente quando há apenas uma linha */
+    border: solid 2px #252c41;
+    background-color: #252c41;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+   
+  }
