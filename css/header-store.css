@@ -19,23 +19,4 @@
   margin-left: 55px;
 }
 
-.example {
-  color: #fff;
-}
-.example-item {
-  width: 33.333%;;
-  height: 150px;
-  display: block;
-}
 
-.example-item_first {
-  background-color: #faa116;
-}
-.example-item_second {
-  background-color: #57c7c3;
-  margin-left: auto;
-}
-.example-item_third {
-  background-color: #3b97d3;
-  margin: 0 auto;
-}
