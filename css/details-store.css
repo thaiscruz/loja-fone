@@ -1,19 +1,38 @@
-.datails-store {
+.details-store {
   color: #fff;
   line-height: 1.2;
   text-align: left;
   margin-top: 40px;
 }
 
-.description , .value, .va
-.title-details {
-  
-  color: #fff;
-}
-
 .value {
   font-size: 20px;
   color: #fff;
+  margin-bottom: 24px;
+  margin-right: 77px;
 }
 
+.value.-second {
+  margin-bottom: 28px;
+}
 
+.title-details {
+  font-size: 25px;
+  margin-bottom: 100px;
+}
+
+.description {
+  font-size: 18px;
+  margin-top: 73px;
+  line-height: 1.6;
+}
+
+.more a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+}
+
+.more {
+  margin-top: 40px;
+}

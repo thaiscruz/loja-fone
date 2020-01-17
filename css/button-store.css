@@ -10,6 +10,8 @@
   text-align: center;
   text-decoration: none;
   float: left;
+  margin-top: 98px;
+  
 }
 
 .button-store.-second {
@@ -18,4 +20,6 @@
   width: 218px;
   border: solid 2px #ffffff;
   background-color: transparent;
+  margin-right: 38px;
 }
+
