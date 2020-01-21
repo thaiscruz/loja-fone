@@ -5,7 +5,7 @@
   line-height: 60px; /* alinhar verticalmente quando há apenas uma linha */
   border: solid 2px #252c41;
   background-color: #252c41;
-  color: #ffffff;
+  color: #fff;
   font-size: 20px;
   text-align: center;
   text-decoration: none;
@@ -16,9 +16,8 @@
 
 .button-store.-second {
   width: 200px;
-  color: #ffffff;
   width: 218px;
-  border: solid 2px #ffffff;
+  border: solid 2px #fff;
   background-color: transparent;
   margin-right: 38px;
 }
